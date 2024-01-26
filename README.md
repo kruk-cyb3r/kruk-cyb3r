@@ -1,11 +1,11 @@
 
-#  Grüße Hacker's  Xakep's☠️👋☠️
+#  Grüße Xakep's☠️👋☠️
 ---
-> ### Welcome | Willkommen  | Bienvenidos | Velkommen | Добро пожаловать 
+> ### | Willkommen | Добро пожаловать   | Welcome  | Bienvenidos | Velkommen 
 ---
 
-<img align="left" src="https://github.com/krkavec-s3c/Krkavec-Security/assets/109626445/ecd275fe-be7e-4d36-8245-dbe576bfbf0d" alt="image" width="200" height="auto">
 
+<img align="left" src="https://github.com/krkavec-s3c/Krkavec-s3c/assets/109626445/1a01adf4-bdc5-4a50-babe-b79da9646cf0" alt="KrK4v3c" width="250" height="250"/>
 
 ---
 > Welcome here you will find walkthroughs and writeups of vulnerable environments from HTB, VulnHub, TryHackMe, LetsDefend and more.
