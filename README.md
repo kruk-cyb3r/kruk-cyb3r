@@ -1,20 +1,32 @@
 
-#  Grüße Xakep's☠️👋☠️
+
+> #  Grüße Xakep's☠️👋☠️
 ---
 > ### | Willkommen | Добро пожаловать   | Welcome  | Bienvenidos | Velkommen 
 ---
 
 
-<img align="left" src="https://github.com/krkavec-s3c/Krkavec-s3c/assets/109626445/1a01adf4-bdc5-4a50-babe-b79da9646cf0" alt="KrK4v3c" width="250" height="250"/>
-
 ---
-> Welcome here you will find walkthroughs and writeups of vulnerable environments from HTB, VulnHub, TryHackMe, LetsDefend and more.
 
+> [!IMPORTANT]  
+>  Welcome here you will find walkthroughs and writeups of vulnerable environments from
+>  HTB
+>  VulnHub
+> TryHackMe
+> LetsDefend and more.
+
+
+
+
+> [!TIP]
 > Cybersecurity and ethical hacking requires a "spiral" learning process, i.e. one day you can work on mobiles and another day on cloud environments, analyze malware, that's why it's called "spiral".
 
 <br>
 <br>
 <br>
+
+
+
 <br>
 <br>
 
